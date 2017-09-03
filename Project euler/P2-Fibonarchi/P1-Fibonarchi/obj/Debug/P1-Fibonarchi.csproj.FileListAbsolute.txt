@@ -1,0 +1,8 @@
+C:\Users\logancberry\OneDrive\C#\Project euler\P1-Fibonarchi\P1-Fibonarchi\bin\Debug\P1-Fibonarchi.exe.config
+C:\Users\logancberry\OneDrive\C#\Project euler\P1-Fibonarchi\P1-Fibonarchi\bin\Debug\P1-Fibonarchi.exe
+C:\Users\logancberry\OneDrive\C#\Project euler\P1-Fibonarchi\P1-Fibonarchi\bin\Debug\P1-Fibonarchi.pdb
+C:\Users\logancberry\OneDrive\C#\Project euler\P1-Fibonarchi\P1-Fibonarchi\obj\Debug\P1-Fibonarchi.exe
+C:\Users\logancberry\OneDrive\C#\Project euler\P1-Fibonarchi\P1-Fibonarchi\obj\Debug\P1-Fibonarchi.pdb
+C:\Users\logan\OneDrive\C#\Project euler\P2-Fibonarchi\P1-Fibonarchi\bin\Debug\P1-Fibonarchi.exe.config
+C:\Users\logan\OneDrive\C#\Project euler\P2-Fibonarchi\P1-Fibonarchi\obj\Debug\P1-Fibonarchi.exe
+C:\Users\logan\OneDrive\C#\Project euler\P2-Fibonarchi\P1-Fibonarchi\obj\Debug\P1-Fibonarchi.pdb

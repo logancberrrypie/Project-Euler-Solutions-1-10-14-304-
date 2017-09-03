@@ -1,0 +1,6 @@
+C:\Users\logancberry\OneDrive\C#\Project euler\P3_LargestPrime\P3_LargestPrime\bin\Debug\P3_LargestPrime.exe.config
+C:\Users\logancberry\OneDrive\C#\Project euler\P3_LargestPrime\P3_LargestPrime\obj\Debug\P3_LargestPrime.csprojResolveAssemblyReference.cache
+C:\Users\logancberry\OneDrive\C#\Project euler\P3_LargestPrime\P3_LargestPrime\bin\Debug\P3_LargestPrime.exe
+C:\Users\logancberry\OneDrive\C#\Project euler\P3_LargestPrime\P3_LargestPrime\bin\Debug\P3_LargestPrime.pdb
+C:\Users\logancberry\OneDrive\C#\Project euler\P3_LargestPrime\P3_LargestPrime\obj\Debug\P3_LargestPrime.exe
+C:\Users\logancberry\OneDrive\C#\Project euler\P3_LargestPrime\P3_LargestPrime\obj\Debug\P3_LargestPrime.pdb

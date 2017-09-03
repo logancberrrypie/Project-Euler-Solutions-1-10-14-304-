@@ -1,0 +1,11 @@
+C:\Users\logancberry\OneDrive\C#\Project euler\P10-SummationPrimes\P10-SummationPrimes\bin\Debug\P10-SummationPrimes.exe.config
+C:\Users\logancberry\OneDrive\C#\Project euler\P10-SummationPrimes\P10-SummationPrimes\bin\Debug\P10-SummationPrimes.exe
+C:\Users\logancberry\OneDrive\C#\Project euler\P10-SummationPrimes\P10-SummationPrimes\bin\Debug\P10-SummationPrimes.pdb
+C:\Users\logancberry\OneDrive\C#\Project euler\P10-SummationPrimes\P10-SummationPrimes\obj\Debug\P10-SummationPrimes.exe
+C:\Users\logancberry\OneDrive\C#\Project euler\P10-SummationPrimes\P10-SummationPrimes\obj\Debug\P10-SummationPrimes.pdb
+C:\Users\logan\OneDrive\C#\Project euler\P10-SummationPrimes\P10-SummationPrimes\bin\Debug\P10-SummationPrimes.exe.config
+C:\Users\logan\OneDrive\C#\Project euler\P10-SummationPrimes\P10-SummationPrimes\obj\Debug\P10-SummationPrimes.exe
+C:\Users\logan\OneDrive\C#\Project euler\P10-SummationPrimes\P10-SummationPrimes\obj\Debug\P10-SummationPrimes.pdb
+C:\Users\logan\OneDrive\C#\Project euler\P10-SummationPrimes\P10-SummationPrimes\bin\Debug\P10-SummationPrimes.exe
+C:\Users\logan\OneDrive\C#\Project euler\P10-SummationPrimes\P10-SummationPrimes\bin\Debug\P10-SummationPrimes.pdb
+C:\Users\logan\OneDrive\C#\Project euler\P10-SummationPrimes\P10-SummationPrimes\obj\Debug\P10-SummationPrimes.csprojResolveAssemblyReference.cache

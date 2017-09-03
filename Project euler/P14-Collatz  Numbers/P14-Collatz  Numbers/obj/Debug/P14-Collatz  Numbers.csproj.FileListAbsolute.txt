@@ -1,0 +1,6 @@
+C:\Users\logancberry\OneDrive\C#\Project euler\P14-Collatz  Numbers\P14-Collatz  Numbers\bin\Debug\P14-Collatz  Numbers.exe.config
+C:\Users\logancberry\OneDrive\C#\Project euler\P14-Collatz  Numbers\P14-Collatz  Numbers\bin\Debug\P14-Collatz  Numbers.exe
+C:\Users\logancberry\OneDrive\C#\Project euler\P14-Collatz  Numbers\P14-Collatz  Numbers\bin\Debug\P14-Collatz  Numbers.pdb
+C:\Users\logancberry\OneDrive\C#\Project euler\P14-Collatz  Numbers\P14-Collatz  Numbers\obj\Debug\P14-Collatz  Numbers.csprojResolveAssemblyReference.cache
+C:\Users\logancberry\OneDrive\C#\Project euler\P14-Collatz  Numbers\P14-Collatz  Numbers\obj\Debug\P14-Collatz  Numbers.exe
+C:\Users\logancberry\OneDrive\C#\Project euler\P14-Collatz  Numbers\P14-Collatz  Numbers\obj\Debug\P14-Collatz  Numbers.pdb

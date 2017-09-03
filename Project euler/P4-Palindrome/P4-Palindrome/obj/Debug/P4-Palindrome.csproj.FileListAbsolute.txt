@@ -1,0 +1,5 @@
+C:\Users\logancberry\OneDrive\C#\Project euler\P4-Palindrome\P4-Palindrome\bin\Debug\P4-Palindrome.exe.config
+C:\Users\logancberry\OneDrive\C#\Project euler\P4-Palindrome\P4-Palindrome\bin\Debug\P4-Palindrome.exe
+C:\Users\logancberry\OneDrive\C#\Project euler\P4-Palindrome\P4-Palindrome\bin\Debug\P4-Palindrome.pdb
+C:\Users\logancberry\OneDrive\C#\Project euler\P4-Palindrome\P4-Palindrome\obj\Debug\P4-Palindrome.exe
+C:\Users\logancberry\OneDrive\C#\Project euler\P4-Palindrome\P4-Palindrome\obj\Debug\P4-Palindrome.pdb

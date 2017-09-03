@@ -1,0 +1,5 @@
+C:\Users\logancberry\OneDrive\C#\Project euler\P1-Multiples\P1-Multiples\bin\Debug\P1-Multiples.exe.config
+C:\Users\logancberry\OneDrive\C#\Project euler\P1-Multiples\P1-Multiples\bin\Debug\P1-Multiples.exe
+C:\Users\logancberry\OneDrive\C#\Project euler\P1-Multiples\P1-Multiples\bin\Debug\P1-Multiples.pdb
+C:\Users\logancberry\OneDrive\C#\Project euler\P1-Multiples\P1-Multiples\obj\Debug\P1-Multiples.exe
+C:\Users\logancberry\OneDrive\C#\Project euler\P1-Multiples\P1-Multiples\obj\Debug\P1-Multiples.pdb

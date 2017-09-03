@@ -1,0 +1,5 @@
+C:\Users\logancberry\OneDrive\C#\Project euler\P304-Primonarchi\P304-Primonarchi\bin\Debug\P304-Primonarchi.exe.config
+C:\Users\logancberry\OneDrive\C#\Project euler\P304-Primonarchi\P304-Primonarchi\bin\Debug\P304-Primonarchi.exe
+C:\Users\logancberry\OneDrive\C#\Project euler\P304-Primonarchi\P304-Primonarchi\bin\Debug\P304-Primonarchi.pdb
+C:\Users\logancberry\OneDrive\C#\Project euler\P304-Primonarchi\P304-Primonarchi\obj\Debug\P304-Primonarchi.exe
+C:\Users\logancberry\OneDrive\C#\Project euler\P304-Primonarchi\P304-Primonarchi\obj\Debug\P304-Primonarchi.pdb
